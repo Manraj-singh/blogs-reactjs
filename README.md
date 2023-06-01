@@ -25,6 +25,7 @@ alternatively download the zip file
 - Blog creation page: page contains inputs like title, description, content with RTE and adds blog on submitting
 - Details page : when clicked on title of blog on homepage it shows blog details on this page
 - responsive and well structured code for easier scalability and maintenance
+- appropriate validations and feedback to user through notifications
 
 ## Tools Used
 - React.js
